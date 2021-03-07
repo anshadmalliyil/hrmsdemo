@@ -49,7 +49,7 @@ const Login = () => {
                     <h1>Login</h1>
                     <CRow>
                       <CCol xs="6">
-                      <p className="text-muted">Sign In to your account</p>
+                      <p className="text-muted">Signsss In to your account</p>
                       </CCol>
                       <CCol xs="6" className="text-right">
                       <Link to="/register">
